@@ -1,5 +1,5 @@
 Mini-Project “ หุ้นน้ำมันยังไงดี ? “ ประกอบด้วย
 1) ไฟล์ของข้อมูลที่ใช้ในการวิเคราะห์ (Correlation crude oil, oil stocks and USD price.csv)
-2) ไฟล์แสดงโค้ดและคำบรรยายประกอบ (Oil_Stock.ipynb) หรือเข้าลิ้งก์สำรองได้ที่ https://colab.research.google.com/drive/1PBzajZRVr9QlEdXFn965T-T9zAECMvbn?usp=sharing
+2) ไฟล์แสดงโค้ดและคำบรรยายประกอบ (หุ้นน้ำมันยังไงดี.ipynb) หรือเข้าลิ้งก์สำรองได้ที่ https://colab.research.google.com/drive/1PBzajZRVr9QlEdXFn965T-T9zAECMvbn?usp=sharing
 3) ไฟล์ pdf (หุ้นน้ำมันยังไงดี_presentation) แสดงข้อมูลที่ใช้ กระบวนการจัดการและทำความสะอาดข้อมูล กระบวนการย่อยและการวิเคราะห์ข้อมูล การแสดงภาพนิทัศน์ของข้อมูล และการสรุปผล
 4) ไฟล์ pdf (หุ้นน้ำมันยังไงดี_summary) แสดงแหล่งที่มาของข้อมูล การแบ่งหน้าที่รับผิดชอบในกลุ่มและลิ้งก์ของผลงาน
